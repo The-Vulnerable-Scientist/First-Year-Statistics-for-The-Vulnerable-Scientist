@@ -18,7 +18,7 @@ The podcast structure is interview-based, informal and relaxed and mostly long-f
 ## Reach: Statistics
 This Github reository to make the Downloads data easy to acess. When the podcast started, It was being hosted on Buzzsprout. After a while, Sarah thought that it won't be sustainable and the platfrom would delete the episodes if she doesn't pay for the hosting. At the end of March 2022, she moved the podcast to anchor, a free hosting platfromm but it didn't give her all the things she needed. Only after a few weeks, she moved to Acast, back to acnhor then finally settled for acast on Mid April 2022. This explains why the data is scattered.
 
-By 1445 hours, +3 GMT on 23rd November, the podcast has 9986 downloads across all podcast platforms and 962 views on Youtube. If you would like to support this show: https://www.patreon.com/thevulnerablescientist or MPESA 07188896962 (Sarah Nyakeri).
+From 1st December 2021 to 30th Novemeber 2022, the podcast has 10,382 downloads across all podcast platforms and 968 views on Youtube. If you would like to support this show: https://www.patreon.com/thevulnerablescientist or MPESA 07188896962 (Sarah Nyakeri).
 
 ##Contact us
 If you would like to send an audio message: https://www.sarahnyancheranyakeri.co.ke/thevulnerablescientistpodcast/ otherwise contact us at tvscientistpod on gmail. Website: TheVulnerableScientist.com

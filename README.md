@@ -6,7 +6,7 @@ Shows Podcast Donwloads data from 1st December 2021 to 30th November 2022
 @TVScientistPod
 
 ## Listen
-Do you have spotify, audible, apple podcasts, google podcasts or any other podcast listening platfrorm, Search for the vulnerable scientist to listen in. You can also find us on youtube (this is just audio for now) to listen.
+Do you have [spotify](https://open.spotify.com/show/7ynHHBy44Zznrbv4AMVxji?si=f0c7251b5c5a4177&nd=1), [audible](https://www.audible.com/pd/Podcast/B08JJMP4RG?qid=1669205117&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=K3W2CC01F8ADDPTGR1KF), [apple podcasts](https://podcasts.apple.com/ke/podcast/the-vulnerable-scientist/id1598733430), [google podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xODU3Nzg5LnJzcw?sa=X&ved=0CAMQ4aUDahcKEwj4u9jmoMT7AhUAAAAAHQAAAAAQAQ&hl=en-KE) or any other podcast listening platfrorm, Search for the vulnerable scientist to listen in. You can also find us on [youtube ](https://www.youtube.com/@TVScientistPod)(this is just audio for now) to listen.
 
 ## About
 This is a space for scientists to tell their honest and authentic stories about their journey into science, highs and low they have faced or currently face during their careers in science, their hobbies and topics they would like to talk about on a public space with honesty to maintain authenticity.
